@@ -91,3 +91,23 @@ section.about{
 .gallery-el2{
     width: 100%;
 }
+.ok{
+    background: gold;
+    height: 250px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+.ok-right{
+    display: flex;
+    align-items: center;
+    white-space: pre-line;
+    width: 141px;
+    justify-content: space-between;
+}
+.icon-ok{
+    width: 200px;
+    height: 100px;
+}
