@@ -80,3 +80,14 @@ section.about{
     font-weight: bold;
     font-size: 32px;
 }
+
+.gallery2{
+    display: grid;
+ grid-template-columns: 25% 25% 25% 25%;
+ grid-template-rows: 50% 50%;
+ padding-top: 119px;
+}
+
+.gallery-el2{
+    width: 100%;
+}
