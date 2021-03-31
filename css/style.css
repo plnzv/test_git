@@ -51,4 +51,32 @@ header{
     font-weight: bold;
     color: #c91414;
 }
-
+section.about{
+    text-align: center;
+    white-space: pre-line;
+    padding-top: 119px;
+    padding-bottom: 20px;
+}
+.title2{
+    font-weight: bold;
+    font-size: 32px;
+}
+.txt{
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin-bottom: 50px;
+}
+.gallery1{
+    display: grid;
+ grid-template-columns: 25% 25% 25% 25%;
+ grid-template-rows: 50% 50%;
+}
+.gallery-el1{
+   width: 100%;
+   
+}
+.title1{
+    font-weight: bold;
+    font-size: 32px;
+}
